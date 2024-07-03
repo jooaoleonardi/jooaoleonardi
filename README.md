@@ -1,4 +1,4 @@
-<h3 align="left">👋🏿 Oie, que bom ver você aqui. Me chamo João Vitor Leonardi, mas pode me chamar de Leonardi</h3>
+<h3 align="left">👋🏿 Oie, que bom ver você aqui. Me chamo João Vitor Leonardi</h3>
 
 ###
 
