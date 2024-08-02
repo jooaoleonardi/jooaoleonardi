@@ -1,20 +1,20 @@
-<h3 align="center">👋 Olá, Bem vindo</h3>
+<h3 align="center">👋 Hello, Welcome</h3>
 
 ###
 
-<p align="left">Acadêmico, pesquisador na área de CyberSegurança🔒<br>Estou sempre aberto a networking e oportunidades.</p>
+<p align="left">Academic, researcher in the area of ​​CyberSecurity🔒<br>I'm always open to networking and opportunities.</p>
 
 ###
 
-<h4 align="left">📌Formação Acadêmica</h4>
+<h4 align="left">📌Academic education</h4>
 
 ###
 
-<p align="left">Ciência da Computação  - Centro Universitário de Brasília</p>
+<p align="left">Computer Science - University Center of Brasilia</p>
 
 ###
 
-<h4 align="left">Linguagens e Frameworks</h4>
+<h4 align="left">Languages ​​and Frameworks</h4>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h4 align="left">Ferramentas que uso no dia a dia</h4>
+<h4 align="left">Tools I use daily</h4>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h4 align="left">Contato</h4>
+<h4 align="left">Contact</h4>
 
 ###
 
