@@ -30,6 +30,6 @@
 
 ###
 
-<p align="left">Feel free to reach out for collaborations or just a tech chat!<br>Email me at jooao.leonardi@gmail.com</p>
+<p align="left">Feel free to reach out for collaborations or just a tech chat!<br>Email me at jooao.leonardi@gmail.com.</p>
 
 ###
