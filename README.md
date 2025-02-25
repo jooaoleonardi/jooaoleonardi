@@ -1,7 +1,3 @@
-Aqui está uma versão modificada do seu texto, incorporando elementos do perfil do LinkedIn que você forneceu:
-
----
-
 <h2 align="left">👋 Olá, eu sou João Vitor Leonardi!</h2>
 
 ###
@@ -10,7 +6,7 @@ Aqui está uma versão modificada do seu texto, incorporando elementos do perfil
 
 ###
 
-<p align="left">Baseado no Brasil.<br>Estou cursando Ciência da Computação no Centro Universitário de Brasília (UniCEUB).</p>
+<p align="left">Cursando Ciência da Computação no Centro Universitário de Brasília (UniCEUB).</p>
 
 ###
 
@@ -18,7 +14,7 @@ Aqui está uma versão modificada do seu texto, incorporando elementos do perfil
 
 ###
 
-<p align="left">Atuo como Trainee em Transformação Digital e Inovação Tecnológica, aplicando metodologias ágeis como Scrum e frameworks como ITIL para otimizar processos e aprimorar a experiência do cliente.<br>Tenho experiência em gestão de produtos, análise de indicadores e liderança de equipes, combinando meu aprendizado acadêmico com habilidades práticas do ambiente corporativo.<br>Além disso, sou fascinado por tudo relacionado à ciência da computação, com um foco especial em cybersecurity, onde busco explorar novas tecnologias e metodologias para identificar vulnerabilidades e mitigar riscos.</p>
+<p align="left">Atuo como Trainee em Transformação Digital e Inovação Tecnológica, aplicando metodologias ágeis como Scrum e frameworks como ITIL para otimizar processos e aprimorar a experiência do cliente.<br>Tenho experiência em gestão de produtos, análise de indicadores e liderança de equipes, combinando meu aprendizado acadêmico com habilidades práticas do ambiente corporativo.</p>
 
 ###
 
@@ -34,8 +30,4 @@ Aqui está uma versão modificada do seu texto, incorporando elementos do perfil
 
 ###
 
-<p align="left">Sinta-se à vontade para entrar em contato para colaborações ou apenas para uma conversa sobre tecnologia!<br>Me envie um e-mail: jooao.leonardi@gmail.com</p>
-
----
-
-Esta versão mantém a estrutura do perfil do LinkedIn, mas integra as informações do texto original, destacando sua experiência profissional, interesses e objetivos de forma clara e alinhada com o tom do perfil.
+<p align="left">Sinta-se à vontade para entrar em contato para colaborações ou apenas para uma conversa sobre tecnologia!<br></p>
