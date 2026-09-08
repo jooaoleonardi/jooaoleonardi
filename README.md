@@ -6,23 +6,52 @@
 
 ###
 
-<p align="left">Cursando Ciência da Computação no Centro Universitário de Brasília (UniCEUB).</p>
+<p align="left">
+Graduando em Ciência da Computação pelo Centro Universitário de Brasília (UniCEUB).
+</p>
 
 ###
 
-<h3 align="left">👨‍💻 Interesses Profissionais</h3>
+<h3 align="left">👨‍💻 Atuação Profissional</h3>
 
 ###
 
-<p align="left">Atuo como Trainee em Transformação Digital e Inovação Tecnológica, aplicando metodologias ágeis como Scrum e frameworks como ITIL para otimizar processos e aprimorar a experiência do cliente.<br>Tenho experiência em gestão de produtos, análise de indicadores e liderança de equipes, combinando meu aprendizado acadêmico com habilidades práticas do ambiente corporativo.</p>
+<p align="left">
+Atuo como Analista de Negócios Júnior na área de Transformação Digital.<br><br>
+
+Tenho experiência com levantamento e análise de requisitos, documentação funcional, regras de negócio, histórias de usuário, critérios de aceitação, análise de processos, validação de sistemas e acompanhamento de demandas junto às equipes de desenvolvimento.<br><br>
+
+Também utilizo conceitos de Scrum, ITIL e modelagem de processos no apoio à melhoria e evolução de soluções digitais.
+</p>
 
 ###
 
-<h3 align="left">🔒 Meus objetivos</h3>
+<h3 align="left">🛠️ Áreas de Interesse</h3>
 
 ###
 
-<p align="left">- Gerar valor por meio da inovação e da aplicação de tecnologias disruptivas.<br>- Identificar e resolver vulnerabilidades de segurança em sistemas e processos.<br>- Colaborar com outros profissionais e entusiastas de tecnologia para trocar conhecimentos e impulsionar projetos inovadores.</p>
+<p align="left">
+- Análise de Negócios<br>
+- Engenharia de Requisitos<br>
+- Transformação Digital<br>
+- Gestão de Produtos<br>
+- Engenharia de Software<br>
+- Segurança da Informação<br>
+- Ciência de Dados
+</p>
+
+###
+
+<h3 align="left">🎯 Objetivos</h3>
+
+###
+
+<p align="left">
+- Evoluir profissionalmente na área de tecnologia.<br>
+- Aprimorar conhecimentos em análise de negócios e desenvolvimento de sistemas.<br>
+- Participar de projetos que utilizem tecnologia para resolver problemas reais.<br>
+- Contribuir para a criação de soluções digitais eficientes e seguras.
+</p>
 
 ###
 
@@ -30,4 +59,6 @@
 
 ###
 
-<p align="left">Sinta-se à vontade para entrar em contato para colaborações ou apenas para uma conversa sobre tecnologia!<br></p>
+<p align="left">
+Aberto a conexões, troca de conhecimentos e oportunidades na área de tecnologia.
+</p>
