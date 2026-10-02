@@ -1,64 +1,54 @@
-<h2 align="left"> Olá, eu sou João Vitor Leonardi!</h2>
+# João Vitor Leonardi
 
-###
+**Analista de Negócios Júnior | Transformação Digital | Engenharia de Requisitos**
 
-<h3 align="left"> Sobre mim</h3>
+## Sobre mim
 
-###
+Sou Analista de Negócios Júnior na área de Transformação Digital e graduando em Ciência da Computação pelo Centro Universitário de Brasília (UniCEUB).
 
-<p align="left">
-Graduando em Ciência da Computação pelo Centro Universitário de Brasília (UniCEUB).
-</p>
+Atuo na conexão entre necessidades de negócio e equipes de desenvolvimento, com foco na definição de requisitos, documentação funcional, análise de processos e validação de soluções digitais.
 
-###
+## Atuação profissional
 
-<h3 align="left">Atuação Profissional</h3>
+### Análise de negócios e requisitos
 
-###
+- Levantamento e análise de necessidades junto às áreas envolvidas.
+- Identificação e documentação de regras de negócio.
+- Elaboração de especificações funcionais, histórias de usuário e critérios de aceitação.
+- Esclarecimento de requisitos e alinhamento de demandas com equipes de desenvolvimento.
 
-<p align="left">
-Atuo como Analista de Negócios Júnior na área de Transformação Digital.<br><br>
+### Processos e transformação digital
 
-Tenho experiência com levantamento e análise de requisitos, documentação funcional, regras de negócio, histórias de usuário, critérios de aceitação, análise de processos, validação de sistemas e acompanhamento de demandas junto às equipes de desenvolvimento.<br><br>
+- Análise de processos e identificação de oportunidades de melhoria.
+- Apoio à adequação de funcionalidades às necessidades dos usuários e da operação.
+- Aplicação de conceitos de Scrum, ITIL e modelagem de processos na organização e no acompanhamento do trabalho.
 
-Também utilizo conceitos de Scrum, ITIL e modelagem de processos no apoio à melhoria e evolução de soluções digitais.
-</p>
+### Validação e acompanhamento de sistemas
 
-###
+- Validação de funcionalidades com base nos requisitos e nas regras de negócio.
+- Registro de inconsistências, ajustes necessários e evidências de validação.
+- Acompanhamento de demandas e correções junto às equipes responsáveis.
+- Consolidação de informações para apoiar decisões e dar continuidade às entregas.
 
-<h3 align="left">Áreas de Interesse</h3>
+## Documentação e organização do trabalho
 
-###
+Produzo e organizo documentação técnica e funcional para facilitar a comunicação, preservar o contexto das decisões e manter a rastreabilidade das demandas.
 
-<p align="left">
-- Análise de Negócios<br>
-- Engenharia de Requisitos<br>
-- Transformação Digital<br>
-- Gestão de Produtos<br>
-- Engenharia de Software<br>
-- Segurança da Informação<br>
-- Ciência de Dados
-</p>
+Minhas atividades incluem:
 
-###
+- Elaboração de relatórios técnicos e registros de validação.
+- Consolidação de solicitações, alinhamentos e decisões de reuniões.
+- Organização de requisitos, pendências e evidências.
+- Estruturação de documentos com linguagem clara e critérios verificáveis.
 
-<h3 align="left">Objetivos</h3>
+## Formação acadêmica
 
-###
+**Ciência da Computação — Centro Universitário de Brasília (UniCEUB)**  
+Graduação em andamento.
 
-<p align="left">
-- Evoluir profissionalmente na área de tecnologia.<br>
-- Aprimorar conhecimentos em análise de negócios e desenvolvimento de sistemas.<br>
-- Participar de projetos que utilizem tecnologia para resolver problemas reais.<br>
-- Contribuir para a criação de soluções digitais eficientes e seguras.
-</p>
+## Contato
 
-###
+Aberto a conexões profissionais e troca de conhecimentos em análise de negócios, requisitos e transformação digital.
 
-<h3 align="left">Entre em contato</h3>
-
-###
-
-<p align="left">
-Aberto a conexões, troca de conhecimentos e oportunidades na área de tecnologia.
-</p>
+- **GitHub:** [@jooaoleonardi](https://github.com/jooaoleonardi)
+- **E-mail:** [jooao.leonardi@gmail.com](mailto:jooao.leonardi@gmail.com)
