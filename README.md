@@ -26,7 +26,7 @@ Também utilizo conceitos de Scrum, ITIL e modelagem de processos no apoio à me
 
 ###
 
-<h3 align="left">🛠️ Áreas de Interesse</h3>
+<h3 align="left">Áreas de Interesse</h3>
 
 ###
 
@@ -42,7 +42,7 @@ Também utilizo conceitos de Scrum, ITIL e modelagem de processos no apoio à me
 
 ###
 
-<h3 align="left"> Objetivos</h3>
+<h3 align="left">Objetivos</h3>
 
 ###
 
@@ -55,7 +55,7 @@ Também utilizo conceitos de Scrum, ITIL e modelagem de processos no apoio à me
 
 ###
 
-<h3 align="left">🔗 Entre em contato</h3>
+<h3 align="left">Entre em contato</h3>
 
 ###
 
