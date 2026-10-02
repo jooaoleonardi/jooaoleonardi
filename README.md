@@ -12,7 +12,7 @@ Graduando em Ciência da Computação pelo Centro Universitário de Brasília (U
 
 ###
 
-<h3 align="left">👨‍💻 Atuação Profissional</h3>
+<h3 align="left">Atuação Profissional</h3>
 
 ###
 
