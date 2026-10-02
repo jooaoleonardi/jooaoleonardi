@@ -1,8 +1,8 @@
-<h2 align="left">👋 Olá, eu sou João Vitor Leonardi!</h2>
+<h2 align="left"> Olá, eu sou João Vitor Leonardi!</h2>
 
 ###
 
-<h3 align="left">🎓 Sobre mim</h3>
+<h3 align="left"> Sobre mim</h3>
 
 ###
 
@@ -42,7 +42,7 @@ Também utilizo conceitos de Scrum, ITIL e modelagem de processos no apoio à me
 
 ###
 
-<h3 align="left">🎯 Objetivos</h3>
+<h3 align="left"> Objetivos</h3>
 
 ###
 
