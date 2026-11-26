@@ -27,6 +27,7 @@ Transformo necessidades de negócio em requisitos claros e protótipos navegáve
 
 ## Projetos públicos
 
+- [Estudo de caso: requisitos de um serviço público digital](https://github.com/jooaoleonardi/estudo-de-caso-requisitos): do requisito ao teste, com histórias em Gherkin, regras de negócio, rastreabilidade, protótipo navegável e testes automatizados (projeto fictício).
 - [Meu Study Hub TI](https://github.com/jooaoleonardi/Meu_Study_Hub_TI): portfólio da graduação, [publicado aqui](https://jooaoleonardi.github.io/Meu_Study_Hub_TI/).
 - [Forca-Bruta-Hash](https://github.com/jooaoleonardi/Forca-Bruta-Hash): busca por força bruta de uma hash SHA-256, em Python.
 
