@@ -1,6 +1,7 @@
 # João Vitor Leonardi
 
 **Analista de Negócios Júnior | Transformação Digital | Engenharia de Requisitos**
+
 Brasília, DF · Graduando em Ciência da Computação (UniCEUB)
 
 Transformo necessidades de negócio em requisitos claros e protótipos navegáveis que o time de desenvolvimento consegue construir e validar.
